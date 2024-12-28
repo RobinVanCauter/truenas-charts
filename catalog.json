@@ -126,6 +126,28 @@
             "latest_app_version": "25.0.4",
             "latest_human_version": "25.0.4_1.6.19",
             "last_update": "2023-03-24 21:27:53",
+            "maintainers": [
+                {
+                    "name": "truenas",
+                    "url": "https://www.truenas.com/",
+                    "email": "dev@ixsystems.com"
+                }
+            ],
+            "tags": [
+                "nextcloud",
+                "storage",
+                "sync"
+            ],
+            "screenshots": [
+                "https://media.sys.truenas.net/apps/nextcloud/screenshots/screenshot1.png",
+                "https://media.sys.truenas.net/apps/nextcloud/screenshots/screenshot2.png",
+                "https://media.sys.truenas.net/apps/nextcloud/screenshots/screenshot3.png"
+            ],
+            "sources": [
+                "https://github.com/nextcloud/docker",
+                "https://github.com/nextcloud/helm",
+                "https://github.com/truenas/charts/tree/master/charts/nextcloud"
+            ],
             "name": "nextcloud",
             "recommended": false,
             "title": "Nextcloud",
