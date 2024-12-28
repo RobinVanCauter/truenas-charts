@@ -8,6 +8,7 @@
             "description": "A file sharing server that puts the control and security of your own data back into your hands.",
             "healthy": true,
             "healthy_error": null,
+            "home": "https://nextcloud.com/",
             "location": "/__w/charts/charts/charts/nextcloud",
             "latest_version": "1.6.19",
             "latest_app_version": "25.0.4",
